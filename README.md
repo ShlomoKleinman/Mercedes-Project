@@ -1,0 +1,1 @@
+From web adds to car price prediction: Web Scraping and Machine Learning project. Scraping car data from web and building a ML model to predict car price using Python( BeautifulSoup,Numpy, Pandas, ScikitLearn and more). 
